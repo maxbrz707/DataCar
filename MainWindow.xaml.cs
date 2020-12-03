@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MySql.Data.MySqlClient;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,22 @@ namespace DataCar
         public MainWindow()
         {
             InitializeComponent();
+
+
+            string connection_info= "server=localhost;user=root;database=data;password=1234";
+
+            MySqlConnection connection = new MySqlConnection(connection_info);
+
+
+            MySqlCommand command = new MySqlCommand();
+
+            connection.Open();
+
+
+            connection.Close();
+
+
+
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
@@ -45,13 +62,13 @@ namespace DataCar
         private void Button_Click(object sender, RoutedEventArgs e)
         {
 
-            int num1 = Convert.ToInt32(textBox1.Text);
-            int num2 = Convert.ToInt32(textBox2.Text);
+            
+
+            
 
 
-            int res = num1 + num2;
 
-            MessageBox.Show(Convert.ToString(res));
+
 
         }
     }
