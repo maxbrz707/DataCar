@@ -1,0 +1,15 @@
+F:\CNP\DataCar\bin\Debug\DataCar.exe.config
+F:\CNP\DataCar\bin\Debug\DataCar.exe
+F:\CNP\DataCar\bin\Debug\DataCar.pdb
+F:\CNP\DataCar\obj\Debug\DataCar.csprojAssemblyReference.cache
+F:\CNP\DataCar\obj\Debug\MainWindow.g.cs
+F:\CNP\DataCar\obj\Debug\App.g.cs
+F:\CNP\DataCar\obj\Debug\DataCar_MarkupCompile.cache
+F:\CNP\DataCar\obj\Debug\DataCar_MarkupCompile.lref
+F:\CNP\DataCar\obj\Debug\MainWindow.baml
+F:\CNP\DataCar\obj\Debug\DataCar.g.resources
+F:\CNP\DataCar\obj\Debug\DataCar.Properties.Resources.resources
+F:\CNP\DataCar\obj\Debug\DataCar.csproj.GenerateResource.cache
+F:\CNP\DataCar\obj\Debug\DataCar.csproj.CoreCompileInputs.cache
+F:\CNP\DataCar\obj\Debug\DataCar.exe
+F:\CNP\DataCar\obj\Debug\DataCar.pdb
